@@ -12,6 +12,8 @@
 
 
 ### SSRF
+[All you need to know about SSRF and how may we write tools to do auto-detect](https://medium.com/bugbountywriteup/the-design-and-implementation-of-ssrf-attack-framework-550e9fda16ea)
+
 [SSRF BBC](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/4d91e9681a70f93b84c6c03d4187a6f025d082ec/cheatsheets/ssrf.md)
 
 [SSRF Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/8209d32bafaa679793e5249ad7ac8cfae8f33011/SSRF%20injection)
