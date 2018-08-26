@@ -31,6 +31,8 @@
 
 
 ### SQL Injection
+[SQL injection without qoutes](https://eternalnoobs.com/sqli-without-quotes/)
+
 [SQLmap tutorial](http://www.sqlinjection.net/sqlmap/tutorial/)
 
 [SQLi Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
